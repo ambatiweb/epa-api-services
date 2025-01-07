@@ -1,5 +1,5 @@
 # epa-api-services
-Employee Project Allocation API
+Employee Project Allocation Microservices Architecture 
 
 Architecture
 
