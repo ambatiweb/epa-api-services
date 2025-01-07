@@ -3,7 +3,8 @@ Employee Project Allocation API
 
 Architecture
 
-![epa-application drawio](https://github.com/user-attachments/assets/0287b9f7-5a5d-4ef3-be4f-ac5642bd05da)
+![epa-application drawio (2)](https://github.com/user-attachments/assets/ab66aae1-4c9e-43d0-ae83-0655baec3b18)
+
 
 Functional Requirements
 
